@@ -1,0 +1,102 @@
+/* Classic Travel Ease Website Style */
+
+body {
+    font-family: "Times New Roman", serif;
+    background-color: #f5f5dc;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2f4f4f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #556b2f;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: gold;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #2f4f4f;
+}
+
+p {
+    line-height: 1.8;
+    font-size: 18px;
+}
+
+.gallery {
+    text-align: center;
+}
+
+.gallery img {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border: 3px solid #2f4f4f;
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #333;
+}
+
+th {
+    background-color: #556b2f;
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    background-color: #2f4f4f;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+a.button {
+    background-color: #556b2f;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a.button:hover {
+    background-color: #6b8e23;
+}
